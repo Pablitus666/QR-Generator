@@ -23,8 +23,8 @@ QR Generator Pro es una aplicación desktop enfocada en:
 El proyecto está diseñado siguiendo principios de ingeniería de software mantenible y escalable.
 
 ---
-
-![QR Generator Preview](https://raw.githubusercontent.com/Pablitus666/QR-Generator/main/images/Preview.png)
+ 
+![QR Generator Preview](https://github.com/Pablitus666/QR-Generator/blob/main/images2/Preview.png?raw=true)
 
 ---
 
