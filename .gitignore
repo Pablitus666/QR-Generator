@@ -1,0 +1,52 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+.Python
+env/
+venv*/
+.venv*/
+pip-log.txt
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.log
+
+# === PyInstaller & Compilación ===
+build/
+dist/
+_internal/
+*.spec
+
+# === Inno Setup (Instalador) ===
+installer_output/
+
+# === Binarios y Archivos Pesados (Solicitado) ===
+*.exe
+*.psd
+*.zip
+*.rar
+*.7z
+Thumbs.db
+*.webp
+
+# === Certificados y Seguridad (SENSIBLE) ===
+*.pfx
+*.cer
+*.pvk
+*.snk
+*.crt
+*.pem
+
+# === IDEs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Proyecto Específico ===
+QRApp/logs/
+export_cer.ps1
+firmar_instalador.ps1
