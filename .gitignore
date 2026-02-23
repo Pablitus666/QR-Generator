@@ -29,6 +29,8 @@ installer_output/
 *.zip
 *.rar
 *.7z
+Installer.zip
+Installer.rar
 Thumbs.db
 *.webp
 
