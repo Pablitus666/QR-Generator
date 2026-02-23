@@ -1,4 +1,4 @@
-# QR Generator Pro
+# **QR Generator Pro**
 
 ![CI Status](https://github.com/Pablitus666/QR-Generator/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
@@ -9,6 +9,8 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 Aplicación de escritorio profesional para **generación y lectura de códigos QR**, desarrollada en **Python** con arquitectura modular, testing automatizado y CI continuo.
+
+Esta versión corresponde a la edición modular refactorizada, basada en principios de separación de responsabilidades y arquitectura limpia.
 
 ## 📌 Descripción
 
@@ -22,8 +24,7 @@ QR Generator Pro es una aplicación desktop enfocada en:
 
 El proyecto está diseñado siguiendo principios de ingeniería de software mantenible y escalable.
 
----
- 
+--- 
 ![QR Generator Preview](https://github.com/Pablitus666/QR-Generator/blob/main/images2/Preview.png?raw=true)
 
 ---
